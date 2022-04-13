@@ -18,21 +18,4 @@ https://github.com/mvanduijker/laravel-mercure-broadcaster
 https://mercure.rocks/docs/spec/faq
 
 * Демо старница Mercure Debug  
-https://demo.mercure.rocks  
-
-### Документация и скрипты для развертывания Development окружения
-
-* Makefile и Docker конфиги
-* Пополняемая внутренняя Wiki с основными моментами по стеку, внутренней архитектуре проектов, полезными ссылками,  
-например в формате как этот документ
-
-* GraphQL vs REST API  
-https://youtu.be/YgRmgHPTXr4
-
-### Личный кабинет
-
-Админка на Laravel, Bootstrap, Vue.js + PostgreSQL  
-Мможно и новый стек взять (например Symfony + React.js), с прицелом на будущие планы, если имеет смысл изменять текущий стек, зависит от будущего функционала проектов, интеграции со сторонними сервисами, компетенций внутри команды.
-
-
-
+https://demo.mercure.rocks
